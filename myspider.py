@@ -21,7 +21,6 @@ class CoronaSpider(scrapy.Spider):
                     'cases_per_1_million_people': cases_per_1_million_people.strip(),
                     'recovered'                 : recovered.strip(),
                     'deaths'                    : deaths.strip()
-                    
                 }
                 i = i + 1
                 yield result
