@@ -25,6 +25,3 @@ class BlogSpider(scrapy.Spider):
                 }
                 i = i + 1
                 yield result
-        
-        # for next_page in response.css('a.next-posts-link'):
-        #     yield response.follow(next_page, self.parse)
