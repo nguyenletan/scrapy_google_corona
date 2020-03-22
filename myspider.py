@@ -1,8 +1,8 @@
 import scrapy
 
 
-class BlogSpider(scrapy.Spider):
-    name = 'blogspider'
+class CoronaSpider(scrapy.Spider):
+    name = 'CoronaSpider'
     start_urls = ['https://google.org/crisisresponse/covid19-map/']
     
     def parse(self, response):
