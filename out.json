@@ -1,5 +1,5 @@
 [
-{"id": 0, "country_name": "Worldwide", "confirmed_cases": "307,625", "cases_per_1_million_people": "43.66", "recovered": "95,797", "deaths": "13,050"},
+{"id": 0, "country_name": "Worldwide", "confirmed_cases": "308,257", "cases_per_1_million_people": "43.75", "recovered": "95,828", "deaths": "13,068"},
 {"id": 1, "country_name": "China", "confirmed_cases": "81,054", "cases_per_1_million_people": "60.50", "recovered": "72,244", "deaths": "3,261"},
 {"id": 2, "country_name": "Italy", "confirmed_cases": "53,578", "cases_per_1_million_people": "888.27", "recovered": "6,072", "deaths": "4,825"},
 {"id": 3, "country_name": "United States", "confirmed_cases": "27,111", "cases_per_1_million_people": "87.01", "recovered": "176", "deaths": "340"},
@@ -18,7 +18,7 @@
 {"id": 16, "country_name": "Denmark", "confirmed_cases": "1,420", "cases_per_1_million_people": "253.45", "recovered": "\u2014", "deaths": "13"},
 {"id": 17, "country_name": "Canada", "confirmed_cases": "1,388", "cases_per_1_million_people": "36.72", "recovered": "14", "deaths": "19"},
 {"id": 18, "country_name": "Portugal", "confirmed_cases": "1,280", "cases_per_1_million_people": "124.55", "recovered": "5", "deaths": "12"},
-{"id": 19, "country_name": "Malaysia", "confirmed_cases": "1,183", "cases_per_1_million_people": "36.10", "recovered": "114", "deaths": "8"},
+{"id": 19, "country_name": "Malaysia", "confirmed_cases": "1,183", "cases_per_1_million_people": "36.10", "recovered": "114", "deaths": "9"},
 {"id": 20, "country_name": "Brazil", "confirmed_cases": "1,178", "cases_per_1_million_people": "5.86", "recovered": "2", "deaths": "18"},
 {"id": 21, "country_name": "Australia", "confirmed_cases": "1,122", "cases_per_1_million_people": "44.00", "recovered": "43", "deaths": "7"},
 {"id": 22, "country_name": "Japan", "confirmed_cases": "1,054", "cases_per_1_million_people": "8.25", "recovered": "215", "deaths": "36"},
