@@ -14,7 +14,7 @@
 {"id": 12, "country_name": "Austria", "confirmed_cases": "5,283", "cases_per_1_million_people": "593.42", "recovered": "9", "deaths": "28"},
 {"id": 13, "country_name": "Belgium", "confirmed_cases": "4,269", "cases_per_1_million_people": "370.71", "recovered": "410", "deaths": "122"},
 {"id": 14, "country_name": "Norway", "confirmed_cases": "2,866", "cases_per_1_million_people": "533.95", "recovered": "6", "deaths": "12"},
-{"id": 15, "country_name": "Canada", "confirmed_cases": "2,792", "cases_per_1_million_people": "73.87", "recovered": "112", "deaths": "25"},
+{"id": 15, "country_name": "Canada", "confirmed_cases": "2,792", "cases_per_1_million_people": "73.87", "recovered": "185", "deaths": "26"},
 {"id": 16, "country_name": "Portugal", "confirmed_cases": "2,362", "cases_per_1_million_people": "229.84", "recovered": "22", "deaths": "33"},
 {"id": 17, "country_name": "Australia", "confirmed_cases": "2,317", "cases_per_1_million_people": "90.86", "recovered": "118", "deaths": "8"},
 {"id": 18, "country_name": "Sweden", "confirmed_cases": "2,299", "cases_per_1_million_people": "222.48", "recovered": "16", "deaths": "40"},
