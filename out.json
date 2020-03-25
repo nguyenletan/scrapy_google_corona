@@ -1,8 +1,8 @@
 [
-{"id": 0, "country_name": "Worldwide", "confirmed_cases": "422,613", "cases_per_1_million_people": "59.98", "recovered": "108,879", "deaths": "18,891"},
+{"id": 0, "country_name": "Worldwide", "confirmed_cases": "422,629", "cases_per_1_million_people": "59.98", "recovered": "108,879", "deaths": "18,895"},
 {"id": 1, "country_name": "China", "confirmed_cases": "81,218", "cases_per_1_million_people": "60.62", "recovered": "73,650", "deaths": "3,281"},
 {"id": 2, "country_name": "Italy", "confirmed_cases": "69,176", "cases_per_1_million_people": "1146.86", "recovered": "8,326", "deaths": "6,820"},
-{"id": 3, "country_name": "United States", "confirmed_cases": "54,896", "cases_per_1_million_people": "176.18", "recovered": "379", "deaths": "778"},
+{"id": 3, "country_name": "United States", "confirmed_cases": "55,200", "cases_per_1_million_people": "177.15", "recovered": "379", "deaths": "796"},
 {"id": 4, "country_name": "Spain", "confirmed_cases": "42,058", "cases_per_1_million_people": "899.96", "recovered": "3,794", "deaths": "2,991"},
 {"id": 5, "country_name": "Germany", "confirmed_cases": "32,991", "cases_per_1_million_people": "396.77", "recovered": "3,290", "deaths": "159"},
 {"id": 6, "country_name": "Iran", "confirmed_cases": "24,811", "cases_per_1_million_people": "298.27", "recovered": "8,376", "deaths": "1,934"},
