@@ -43,7 +43,7 @@
 {"id": 41, "country_name": "India", "confirmed_cases": "1,024", "cases_per_1_million_people": "0.81", "recovered": "85", "deaths": "24"},
 {"id": 42, "country_name": "Panama", "confirmed_cases": "901", "cases_per_1_million_people": "244.49", "recovered": "4", "deaths": "17"},
 {"id": 43, "country_name": "Iceland", "confirmed_cases": "890", "cases_per_1_million_people": "2633.22", "recovered": "97", "deaths": "2"},
-{"id": 44, "country_name": "Singapore", "confirmed_cases": "802", "cases_per_1_million_people": "171.44", "recovered": "198", "deaths": "2"},
+{"id": 44, "country_name": "Singapore", "confirmed_cases": "802", "cases_per_1_million_people": "171.44", "recovered": "198", "deaths": "3"},
 {"id": 45, "country_name": "Dominican Republic", "confirmed_cases": "719", "cases_per_1_million_people": "67.85", "recovered": "3", "deaths": "28"},
 {"id": 46, "country_name": "Mexico", "confirmed_cases": "717", "cases_per_1_million_people": "5.69", "recovered": "4", "deaths": "12"},
 {"id": 47, "country_name": "Argentina", "confirmed_cases": "690", "cases_per_1_million_people": "15.19", "recovered": "51", "deaths": "17"},
