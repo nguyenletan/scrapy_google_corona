@@ -24,5 +24,5 @@ class CoronaSpider(scrapy.Spider):
                     'recovered'                 : recovered.strip(),
                     'deaths'                    : deaths.strip()
                 }
-            i = i + 1
-            yield result
+                i = i + 1
+                yield result
