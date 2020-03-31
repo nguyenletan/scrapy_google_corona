@@ -1,0 +1,17 @@
+[
+{"id": 0, "country_name": "Worldwide", "confirmed_cases": "777,286", "cases_per_1_million_people": "110.31", "recovered": "110.31", "deaths": "164,446"},
+{"id": 1, "country_name": "United States", "confirmed_cases": "163,131", "cases_per_1_million_people": "498.74", "recovered": "498.74", "deaths": "5,604"},
+{"id": 2, "country_name": "Italy", "confirmed_cases": "101,739", "cases_per_1_million_people": "1,610.68", "recovered": "1,610.68", "deaths": "14,620"},
+{"id": 3, "country_name": "Spain", "confirmed_cases": "87,956", "cases_per_1_million_people": "1,775.09", "recovered": "1,775.09", "deaths": "16,780"},
+{"id": 4, "country_name": "China", "confirmed_cases": "81,470", "cases_per_1_million_people": "59.32", "recovered": "59.32", "deaths": "75,770"},
+{"id": 5, "country_name": "Germany", "confirmed_cases": "66,885", "cases_per_1_million_people": "814.31", "recovered": "814.31", "deaths": "6,522"},
+{"id": 6, "country_name": "Iran", "confirmed_cases": "41,495", "cases_per_1_million_people": "512.33", "recovered": "512.33", "deaths": "13,911"},
+{"id": 7, "country_name": "France", "confirmed_cases": "40,174", "cases_per_1_million_people": "594.59", "recovered": "594.59", "deaths": "7,202"},
+{"id": 8, "country_name": "United Kingdom", "confirmed_cases": "22,141", "cases_per_1_million_people": "341.19", "recovered": "341.19", "deaths": "135"},
+{"id": 9, "country_name": "Switzerland", "confirmed_cases": "15,923", "cases_per_1_million_people": "2,346.79", "recovered": "2,346.79", "deaths": "2,105"},
+{"id": 10, "country_name": "Belgium", "confirmed_cases": "11,899", "cases_per_1_million_people": "1,154.43", "recovered": "1,154.43", "deaths": "1,527"},
+{"id": 11, "country_name": "Netherlands", "confirmed_cases": "11,750", "cases_per_1_million_people": "721.56", "recovered": "721.56", "deaths": "0"},
+{"id": 12, "country_name": "Turkey", "confirmed_cases": "10,827", "cases_per_1_million_people": "129.35", "recovered": "129.35", "deaths": "162"},
+{"id": 13, "country_name": "South Korea", "confirmed_cases": "9,661", "cases_per_1_million_people": "189.28", "recovered": "189.28", "deaths": "5,228"},
+{"id": 14, "country_name": "Austria", "confirmed_cases": "9,618", "cases_per_1_million_people": "1,227.41", "recovered": "1,227.41", "deaths": "636"}
+]

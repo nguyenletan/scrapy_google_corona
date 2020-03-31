@@ -7,12 +7,14 @@ class CoronaSpider(scrapy.Spider):
     
     def parse(self, response):
         i = 0
-        for td in response.css('.table_scroll tr'):
-            country_name = td.css('td.table_card_cell_col_0 > span ::text').get()
-            confirmed_cases = td.css('td.table_card_cell_col_1 ::text').get()
-            cases_per_1_million_people = td.css('td.table_card_cell_col_2 ::text').get()
-            recovered = td.css('td.table_card_cell_col_3 ::text').get()
-            deaths = td.css('td.table_card_cell_col_4 ::text').get()
+        for td in response.css('table > tbody tr'):
+            # print(td.get())
+            country_name = td.css('td:nth-child(1) > span ::text').get()
+            # print('country_name', country_name)
+            confirmed_cases = td.css('td:nth-child(2) ::text').get()
+            cases_per_1_million_people = td.css('td:nth-child(3) ::text').get()
+            recovered = td.css('td:nth-child(3) ::text').get()
+            deaths = td.css('td:nth-child(4) ::text').get()
             if country_name is not None:
                 result = {
                     'id'                        : i,
@@ -22,5 +24,5 @@ class CoronaSpider(scrapy.Spider):
                     'recovered'                 : recovered.strip(),
                     'deaths'                    : deaths.strip()
                 }
-                i = i + 1
-                yield result
+            i = i + 1
+            yield result
